@@ -32,7 +32,7 @@ LT_INIT
 
 
 PKG_CHECK_MODULES(UNIBAND_MONITOR, gtk+-3.0
-vte-2.90
+vte-2.91
 cconf
 [ ])
 
