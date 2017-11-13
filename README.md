@@ -4,4 +4,4 @@
 
 Wireless monitoring GTK gui using kismet and horst as engine.
 - detect wireless interfaces
-- when multiple interfaces detected can create multiple channel dumps in same time
+- when multiple interfaces are detected it'll be able to create multiple channel dumps in same time
